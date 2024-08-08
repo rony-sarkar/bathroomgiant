@@ -328,7 +328,6 @@ img {
     position: relative;
     font-size: 16px;
     font-family: 'Open Sans', sans-serif;
-    color: #fff;
 }
 
 .product-dec ul li::before,
@@ -337,7 +336,7 @@ img {
     content: "\f00c";
     font-family: fontawesome;
     left: 0;
-    color: #859897;
+    color: #00A9E9;
 }
 
 .product-dec {
